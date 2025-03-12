@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97347875-781f-4729-937a-1a0770992054" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoRamoEncapsula/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoRamoEncapsula/src/TesteEncapsulamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/TesteEncapsulamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/BancoRasmoEncapsulamento/src",
+    "last_opened_file_path": "C:/workspace/CusoJavaRasmo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,23 +63,23 @@
       <recent name="C:\workspace\BancoRasmoEncapsulamento\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\CusoJavaRasmo" />
       <recent name="C:\workspace\BancoRasmoEncapsulamento\BancoRamoEncapsula" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="TesteEncapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteEncapsulamento" />
       <module name="CursoRasmoCola" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="CursoRasmoCola" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteEncapsulamento" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -104,6 +106,7 @@
       <workItem from="1741708837572" duration="21000" />
       <workItem from="1741708863371" duration="4599000" />
       <workItem from="1741774455845" duration="2952000" />
+      <workItem from="1741778728475" duration="9509000" />
     </task>
     <servers />
   </component>
