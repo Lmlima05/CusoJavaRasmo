@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97347875-781f-4729-937a-1a0770992054" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/TesteStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BancoRamoEncapsula/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoRamoEncapsula/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BancoRamoEncapsula/src/TesteEncapsulamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/BancoRamoEncapsula/src/TesteEncapsulamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,25 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.TesteEncapsulamento.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/CusoJavaRasmo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/workspace/BancoRasmoEncapsulamento/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteConstrutor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteEncapsulamento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteStatic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/CusoJavaRasmo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/workspace/BancoRasmoEncapsulamento/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\BancoRasmoEncapsulamento\src" />
@@ -67,7 +72,14 @@
       <recent name="C:\workspace\BancoRasmoEncapsulamento\BancoRamoEncapsula" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteStatic">
+    <configuration name="TesteConstrutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteConstrutor" />
+      <module name="CursoRasmoCola" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteEncapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesteEncapsulamento" />
       <module name="CursoRasmoCola" />
@@ -75,8 +87,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteStatic" />
+      <module name="CursoRasmoCola" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteStatic" />
+        <item itemvalue="Application.TesteConstrutor" />
         <item itemvalue="Application.TesteEncapsulamento" />
       </list>
     </recent_temporary>
@@ -84,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -106,7 +127,9 @@
       <workItem from="1741708837572" duration="21000" />
       <workItem from="1741708863371" duration="4599000" />
       <workItem from="1741774455845" duration="2952000" />
-      <workItem from="1741778728475" duration="9509000" />
+      <workItem from="1741778728475" duration="10328000" />
+      <workItem from="1741804050486" duration="7339000" />
+      <workItem from="1741866559425" duration="4243000" />
     </task>
     <servers />
   </component>
